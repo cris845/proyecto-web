@@ -1,0 +1,30 @@
+.creditos-container {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 100vh;
+  background-color: #121212; /* Fondo oscuro */
+}
+
+.photo-column {
+  margin-right: 20px;
+}
+
+.profile-photo {
+  width: 200px;
+  height: 200px;
+  border-radius: 50%;
+  border: 2px solid #fff;
+}
+
+.info-column {
+  color: #fff;
+}
+
+h2 {
+  margin-bottom: 10px;
+}
+
+p {
+  margin: 5px 0;
+}

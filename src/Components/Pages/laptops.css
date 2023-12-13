@@ -1,0 +1,62 @@
+
+.container {
+ 
+    color: white;
+    padding: 20px;
+  }
+  
+  .product-info {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    margin-bottom: 20px;
+  }
+  
+  .product-details {
+    flex: 1;
+  }
+  
+  .product-price {
+    font-size: 1.5em;
+    color: #ffd700; /* Amarillo dorado para el precio */
+  }
+  
+  .product-quantity {
+    font-size: 1.2em;
+    color: #00ff00; /* Verde para la cantidad */
+  }
+  
+  h1 {
+    font-size: 2.5em;
+  }
+  
+  p {
+    font-size: 1.2em;
+    line-height: 1.5;
+  }
+  
+  .carousel {
+    margin-top: 20px;
+  }
+  
+  .carousel-inner {
+    border-radius: 10px;
+    overflow: hidden;
+  }
+  
+  .carousel-item {
+    text-align: center;
+  }
+  
+  .carousel-control-prev,
+  .carousel-control-next {
+    background-color: rgba(255, 255, 255, 0.5);
+    border-radius: 5px;
+    width: 50px;
+  }
+  
+  .carousel-control-prev-icon,
+  .carousel-control-next-icon {
+    background-color: black;
+  }
+  

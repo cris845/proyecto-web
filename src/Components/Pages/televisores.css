@@ -1,0 +1,58 @@
+/* Televisores.css */
+
+.televisores-container {
+    background-color: #111;
+    color: #fff;
+    padding: 20px;
+  }
+  
+  .televisores-products {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-between;
+  }
+  
+  .televisores-product {
+    background-color: #333;
+    border: 1px solid #555;
+    border-radius: 8px;
+    margin: 10px;
+    padding: 15px;
+    text-align: center;
+    width: 48%;
+  }
+  
+  .televisores-product h2 {
+    margin-bottom: 10px;
+  }
+  
+  .televisores-product p {
+    margin-bottom: 10px;
+  }
+  
+  .televisores-product iframe {
+    width: 100%; /* Ajusta el ancho al 100% del contenedor */
+    height: 315px; /* Altura fija, puedes ajustarla según tus necesidades */
+    border-radius: 8px;
+    margin-bottom: 10px;
+  }
+  
+  .televisores-product label {
+    display: block;
+    margin-bottom: 5px;
+  }
+  
+  .televisores-product input {
+    width: 50px;
+    margin-bottom: 10px;
+  }
+  
+  .televisores-product button {
+    background-color: #4caf50;
+    color: #fff;
+    padding: 8px 15px;
+    border: none;
+    border-radius: 4px;
+    cursor: pointer;
+  }
+  
