@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/proyecto-web/static/css/main.556178b4.css",
-    "main.js": "/proyecto-web/static/js/main.8e496650.js",
+    "main.js": "/proyecto-web/static/js/main.d5b6c75a.js",
     "static/js/787.261b5c92.chunk.js": "/proyecto-web/static/js/787.261b5c92.chunk.js",
     "static/media/Televisor OLED LG C1.mp4": "/proyecto-web/static/media/Televisor OLED LG C1.b7c5b991ee5b2c612e99.mp4",
     "static/media/carrusel12.jpg": "/proyecto-web/static/media/carrusel12.851165dae7d2ab1aeaf9.jpg",
@@ -37,11 +37,11 @@
     "static/media/nav-icon1.svg": "/proyecto-web/static/media/nav-icon1.721d5414c26365f117e71d46b6641cb2.svg",
     "static/media/nav-icon2.svg": "/proyecto-web/static/media/nav-icon2.178f497aa17b70c42df2a1a8c926ed01.svg",
     "main.556178b4.css.map": "/proyecto-web/static/css/main.556178b4.css.map",
-    "main.8e496650.js.map": "/proyecto-web/static/js/main.8e496650.js.map",
+    "main.d5b6c75a.js.map": "/proyecto-web/static/js/main.d5b6c75a.js.map",
     "787.261b5c92.chunk.js.map": "/proyecto-web/static/js/787.261b5c92.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.556178b4.css",
-    "static/js/main.8e496650.js"
+    "static/js/main.d5b6c75a.js"
   ]
 }
